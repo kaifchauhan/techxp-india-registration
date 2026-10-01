@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1790864053;_ci_previous_url|s:27:"http://localhost:8080/login";is_admin_logged_in|b:1;admin_id|s:1:"2";admin_username|s:5:"admin";admin_name|s:26:"TechXP Super Administrator";admin_role|s:10:"superadmin";return_url|s:27:"http://localhost:8080/event";error|s:51:"Please log in to access the protected event portal.";__ci_vars|a:1:{s:5:"error";s:3:"old";}
