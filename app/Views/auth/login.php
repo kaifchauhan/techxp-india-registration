@@ -57,7 +57,7 @@
                             <span class="text-white fw-semibold">Test Credentials:</span>
                         </div>
                         <div class="text-secondary" style="font-size: 0.8rem;">
-                            <div>Email: <code class="text-info">kaif@test.com</code></div>
+                            <div>Email: <code class="text-info">kaif33chauhan@gmail.com</code></div>
                             <div>Mobile: <code class="text-info">9874563210</code></div>
                             <div>Password: <code class="text-info">123456</code></div>
                         </div>
